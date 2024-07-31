@@ -1,4 +1,37 @@
 # restaurante_extens-oJava
+/CommunityRestaurantManagement
+│
+├── /src
+│   ├── /main
+│   │   ├── /java
+│   │   │   ├── Main.java
+│   │   │   ├── Restaurant.java
+│   │   │   ├── Inventory.java
+│   │   │   ├── Transaction.java
+│   │   │   ├── DataAnalyzer.java
+│   │   │   ├── /database
+│   │   │   │   ├── DatabaseConnection.java
+│   │   │   │   ├── DatabaseManager.java
+│   │   │   ├── /threads
+│   │   │   │   ├── InventoryUpdateThread.java
+│   │   │   │   ├── TransactionProcessThread.java
+│   │   ├── /resources
+│   │   │   ├── schema.sql
+│   │   │   ├── data.sql
+│   │   ├── /test
+│   │       ├── InventoryTest.java
+│   │       ├── TransactionTest.java
+│
+├── /docs
+│   ├── requirements.md
+│   ├── design.md
+│   ├── user_manual.md
+│
+├── .gitignore
+├── README.md
+├── LICENSE
+└── build.gradle
+
 
 # Community Restaurant Management System
 
