@@ -1,5 +1,6 @@
 # restaurante_extens-oJava
 
+![image](https://github.com/user-attachments/assets/c39f3439-c194-463b-b0b7-74d8adcd1b0b)
 
 
 # Community Restaurant Management System
